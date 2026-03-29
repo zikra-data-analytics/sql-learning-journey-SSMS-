@@ -101,21 +101,6 @@ ProductId ◄──────────── ProductId
 
 ---
 
-## 📂 Repository Structure
-
-```
-📁 Coffee-Sales-SQL-Case-Study/
-│
-├── 📄 README.md               ← You are here
-├── 📄 case_study_queries.sql  ← All 15 queries in one file
-└── 📁 data/
-    ├── fact.csv
-    ├── Location.csv
-    └── Product.csv
-```
-
----
-
 ## 🚀 How to Run
 
 1. Open **Microsoft SQL Server Management Studio (SSMS)**
